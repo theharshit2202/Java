@@ -1,6 +1,6 @@
 package Lec_03;
 
-public class Patterm_5_while_loop {
+public class Pattern_5_while_loop {
 public static void main(String[] args) {
 	int n =5;
 	int row = 1;
